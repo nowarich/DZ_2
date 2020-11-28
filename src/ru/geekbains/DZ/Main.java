@@ -13,7 +13,7 @@ public class Main {
 
 
         ArraySum.checkSize(matrix);
-        System.out.println(ArraySum.sum(matrix));
+        System.out.println(ArraySum.sum(matrix)); //comment for a branch
     }
 
 }
