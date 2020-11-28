@@ -6,8 +6,8 @@ public class notAnumberException extends RuntimeException {
         super(message);
     }
 
-    public notAnumberException(String message, Throwable cause) {
-        super(message, cause);
-        message = "Not a number";
-    }
+//    public notAnumberException(String message, Throwable cause) {
+//        super(message, cause);
+//        message = "Not a number";
+//    }
 }

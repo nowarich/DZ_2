@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16d2203f-71e2-4cad-a1fe-d8c410c91e1e" name="Default Changelist" comment="" />
+    <list default="true" id="16d2203f-71e2-4cad-a1fe-d8c410c91e1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/ArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/ArraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/notAnumberException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DZ_2/ru/geekbains/DZ/notAnumberException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/geekbains/DZ/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbains/DZ/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -23,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="220">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="11" selection-end-column="7" />
               <folding>
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
@@ -50,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/ArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="460">
+              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -74,21 +82,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/wrongSizeException.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/wrongSizeException.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/ArraySum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="123" />
-    <option name="width" value="1402" />
-    <option name="height" value="1047" />
+    <option name="y" value="375" />
+    <option name="width" value="960" />
+    <option name="height" value="520" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,7 +134,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606499392010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606566013547" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DZ1-" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,17 +242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/wrongSizeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -251,17 +254,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/notAnumberException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/ArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="460">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
